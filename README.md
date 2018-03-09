@@ -9,3 +9,7 @@ How to create a securitization chain - https://docs.oracle.com/cd/E64763_01/html
 
 4. Enable any wallet to act as a bank - Lend based on collateral, get interest, invest in mutual funds as described 
 in point 4 on smart contracts.
+
+
+# Chainflux Slack link
+https://join.slack.com/t/teamchainflux/shared_invite/enQtMzI3NDE1NTg0ODIxLTBjZjgzMWU1ZDk1NWNiZWFkNDg0MWRiYjcxMjIwODY5NzRjNmZhMGQyNGM5MTZiMTVkOGY4NDEwMjhjNzI3NTE
